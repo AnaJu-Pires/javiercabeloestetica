@@ -204,6 +204,10 @@ section{
 .ri-map-pin-fill{
     color:red;
 }
+.ri-map-pin-fill span{
+    color: var(--font-color);
+    font-size: 1.3rem ;
+}
 
 .ri-phone-fill{
     color: var(--secondary-color)
